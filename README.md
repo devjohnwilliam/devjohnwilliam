@@ -2,7 +2,7 @@
 - 👀 I’m interested in culture, travel, reading
 - 🌱 I’m currently finding out how i can be part of the digitalisation
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me hier ;)
+- 📫 How to reach me ... ;)
 
 <!---
 devjohnwilliam/devjohnwilliam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
